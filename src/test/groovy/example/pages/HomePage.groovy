@@ -1,6 +1,6 @@
 package example.pages
 
-import modules.SearchBoxModule
+import example.modules.SearchBoxModule
 
 class HomePage extends BasePage {
 

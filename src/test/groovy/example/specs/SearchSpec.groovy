@@ -1,7 +1,7 @@
 package example.specs
 
-import pages.HomePage
-import pages.SearchResultsPage
+import example.pages.HomePage
+import example.pages.SearchResultsPage
 
 class SearchSpec extends BaseSpec {
 

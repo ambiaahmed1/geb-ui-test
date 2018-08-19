@@ -1,4 +1,4 @@
-package example.module
+package example.modules
 
 class SearchBoxModule extends BaseModule{
 

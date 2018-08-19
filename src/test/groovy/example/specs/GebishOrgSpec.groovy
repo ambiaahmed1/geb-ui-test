@@ -1,8 +1,8 @@
 package example.specs
 
 import geb.spock.GebSpec
-import pages.GebishOrgHomePage
-import pages.TheBookOfGebPage
+import example.pages.GebishOrgHomePage
+import example.pages.TheBookOfGebPage
 
 class GebishOrgSpec extends GebSpec {
 

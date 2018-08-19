@@ -1,8 +1,8 @@
 package example.pages
 
-import modules.SearchBoxModule
-import modules.SearchResultsBarModule
-import modules.SideBarModule
+import example.modules.SearchBoxModule
+import example.modules.SearchResultsBarModule
+import example.modules.SideBarModule
 
 class SearchResultsPage extends BasePage {
 
